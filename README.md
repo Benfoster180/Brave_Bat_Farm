@@ -1,6 +1,6 @@
-# Brave_Bat_Farm
-A little auto hot key to help you get that will help you get the Maximin  free Ban from Brave
-The autohot key is activate by pressing F1 once pressed the code will run for 24hrs if you want to close the code at any point press F2 and the code will stop
+#The $BAT Farm
 
+Brave is a web browser, one of the many perks of using brave is the fact the browser gives you crypto as you search.
+This auto hot key is deisgned, to refresh the page a few times ever hour so you can get free crypto (Please note the autohotkey may not work as effecntly if search rewards are chagend)
 
-This code was made as proof concept, i take no legal responabilty of how this is used!
+Once the code is launch press F1 to launch the code and F2 to close the code, the script will run for 24hr, after the 24hr just press F1 and you'll be ready to go again : )
